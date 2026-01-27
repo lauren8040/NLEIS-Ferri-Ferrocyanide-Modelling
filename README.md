@@ -83,7 +83,6 @@ The conda environment used for this work can be recreated with the following com
     │   └── unprocessed_data_modFactor.csv
     └── Theory Derivations
         ├── Supplementary_SympyHarmonicExpansions.ipynb
-        ├── Testing_SympyHarmonicExpansions.ipynb
         ├── sixth_order_filtered_terms.json
         └── sixth_order_script.py
 ```

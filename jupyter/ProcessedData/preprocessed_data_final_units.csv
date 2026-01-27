@@ -1,0 +1,82 @@
+Unit,Value
+Freq,Hz
+Vmod,V
+IHr1,"A (I_p, processed)"
+IHi1,"A (I_p, processed)"
+VHr1,"V (V_p, processed)"
+VHi1,"V (V_p, processed)"
+IHr2,"A (I_p, processed)"
+IHi2,"A (I_p, processed)"
+VHr2,"V (V_p, processed)"
+VHi2,"V (V_p, processed)"
+IHr3,"A (I_p, processed)"
+IHi3,"A (I_p, processed)"
+VHr3,"V (V_p, processed)"
+VHi3,"V (V_p, processed)"
+IHr4,"A (I_p, processed)"
+IHi4,"A (I_p, processed)"
+VHr4,"V (V_p, processed)"
+VHi4,"V (V_p, processed)"
+IHr5,"A (I_p, processed)"
+IHi5,"A (I_p, processed)"
+VHr5,"V (V_p, processed)"
+VHi5,"V (V_p, processed)"
+IHr6,"A (I_p, processed)"
+IHi6,"A (I_p, processed)"
+VHr6,"V (V_p, processed)"
+VHi6,"V (V_p, processed)"
+IHr7,"A (I_p, processed)"
+IHi7,"A (I_p, processed)"
+VHr7,"V (V_p, processed)"
+VHi7,"V (V_p, processed)"
+IHr8,"A (I_p, processed)"
+IHi8,"A (I_p, processed)"
+VHr8,"V (V_p, processed)"
+VHi8,"V (V_p, processed)"
+IHr9,"A (I_p, processed)"
+IHi9,"A (I_p, processed)"
+VHr9,"V (V_p, processed)"
+VHi9,"V (V_p, processed)"
+IHr10,"A (I_p, processed)"
+IHi10,"A (I_p, processed)"
+VHr10,"V (V_p, processed)"
+VHi10,"V (V_p, processed)"
+Modulation,V_RMS Label
+File Number,None
+Rank,None
+theta,None
+Re{I1} Rot,"A (I_p, rotated)"
+Im{I1} Rot,"A (I_p, rotated)"
+Re{I2} Rot,"A (I_p, rotated)"
+Im{I2} Rot,"A (I_p, rotated)"
+Re{A1} Rot,"ohm^-1 (A_1, rotated)"
+Im{A1} Rot,"ohm^-1 (A_1, rotated)"
+Re{A2} Rot,"A/V^2 (A_2, rotated)"
+Im{A2} Rot,"A/V^2 (A_2, rotated)"
+Re{A1} Processed,"ohm^-1 (A_1, Processed)"
+Im{A1} Processed,"ohm^-1 (A_1, Processed)"
+Re{A2} Processed,"A/V^2 (A_2, Processed)"
+Im{A2} Processed,"A/V^2 (A_2, Processed)"
+I1 Mag (A * 10^6),"A (|I_p|, Processed)"
+I2 Mag (A * 10^6),"A (|I_p|, Processed)"
+I3 Mag (A * 10^6),"A (|I_p|, Processed)"
+I1_mag_div_g1,None
+I2_mag_div_g2,None
+h1_2nd,None
+h1_4th,None
+h1_6th,None
+h2_2nd,None
+h2_4th,None
+h2_6th,None
+"Re{A1}, 2nd order","ohm^-1 (A_1, Processed)"
+"Im{A1}, 2nd order","ohm^-1 (A_1, Processed)"
+"Re{A2}, 2nd order","A/V^2 (A_2, Processed)"
+"Im{A2}, 2nd order","A/V^2 (A_2, Processed)"
+"Re{A1}, 4th order","ohm^-1 (A_1, Processed)"
+"Im{A1}, 4th order","ohm^-1 (A_1, Processed)"
+"Re{A2}, 4th order","A/V^2 (A_2, Processed)"
+"Im{A2}, 4th order","A/V^2 (A_2, Processed)"
+"Re{A1}, 6th order","ohm^-1 (A_1, Processed)"
+"Im{A1}, 6th order","ohm^-1 (A_1, Processed)"
+"Re{A2}, 6th order","A/V^2 (A_2, Processed)"
+"Im{A2}, 6th order","A/V^2 (A_2, Processed)"

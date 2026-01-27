@@ -41,14 +41,14 @@ IHr10,A (I_p)
 IHi10,A (I_p)
 VHr10,V (V_p)
 VHi10,V (V_p)
-Modulation,V_RMS Label
+Modulation (RMS),V_RMS Label
 File Number,None
 Rank,None
-theta,None
-Re{I1} Rot,"A (I_p, rotated)"
-Im{I1} Rot,"A (I_p, rotated)"
-Re{I2} Rot,"A (I_p, rotated)"
-Im{I2} Rot,"A (I_p, rotated)"
+theta,Radians
+Re{I1} Rot,"A (I_peak, rotated)"
+Im{I1} Rot,"A (I_peak, rotated)"
+Re{I2} Rot,"A (I_peak, rotated)"
+Im{I2} Rot,"A (I_peak, rotated)"
 Re{A1} Rot,"ohm^-1 (A_1, rotated)"
 Im{A1} Rot,"ohm^-1 (A_1, rotated)"
 Re{A2} Rot,"A/V^2 (A_2, rotated)"

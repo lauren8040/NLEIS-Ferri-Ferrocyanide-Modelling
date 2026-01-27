@@ -41,6 +41,6 @@ IHr10,A (I_p)
 IHi10,A (I_p)
 VHr10,V (V_p)
 VHi10,V (V_p)
-Modulation,V_RMS Label
+Modulation (RMS),V_RMS Label
 File Number,None
 Rank,None

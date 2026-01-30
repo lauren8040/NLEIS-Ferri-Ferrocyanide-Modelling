@@ -1,6 +1,6 @@
 # NLEIS-Ferri-Ferrocyanide-Modelling
 This repository contains the supplementary materials for the paper: **Second Harmonic Nonlinear Warburg Admittance Analysis Eliminates Information Loss from Linearization in Traditional EIS: Theory and Experimental Validation** by Frank et al. 2026. This includes all of the code used to create the paper's Figures and its associated model derivations.
-* 📓 [Supplementary Theory Tutorial (SymPy harmonic series expansions)](jupyter/Theory%20Derivations/Supplementary_SympyHarmonicExpansions.ipynb) - mathematical derivations of current $\tilde{\mathrm{I}}_{\mathrm{j}}$ and $h_j$(∆E) up to N-th order; evaluation of modulation-potential-dependent surface concentration coefficients ($C_j^{s,II}$ and $C_j^{s,III}$).
+* 📓 [Tutorial - Supplementary Theory (SymPy harmonic series expansions)](jupyter/Theory%20Derivations/Supplementary_SympyHarmonicExpansions.ipynb) - mathematical derivations of current $\tilde{\mathrm{I}}_{\mathrm{j}}$ and $h_j$(∆E) up to N-th order; evaluation of modulation-potential-dependent surface concentration coefficients ($C_j^{s,II}$ and $C_j^{s,III}$).
 * 📓 [Processing Data Notebook](jupyter/Theory%20Derivations/Supplementary_SympyHarmonicExpansions.ipynb) - processing of raw input voltages and output currents (i.e. instrument scaling factor, vector rotations, first harmonic capacitive corrections); results saved to `preprocessed_data_final.csv`
 
 ## Abstract

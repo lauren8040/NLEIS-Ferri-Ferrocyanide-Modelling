@@ -78,9 +78,12 @@ The conda environment used for this work can be recreated with the following com
     │       └── Signal_Analysis_Plot.ipynb
     ├── Processed Data
     │   ├── preprocessed_data_final.csv
+    │   ├── preprocessed_data_final_units.csv
     │   ├── preprocessing_data.ipynb
     │   ├── rotated_data_noCdl.csv
+    │   ├── rotated_data_noCdl_units.csv
     │   └── unprocessed_data_modFactor.csv
+    │   └── unprocessed_data_modFactor_units.csv
     └── Theory Derivations
         ├── Supplementary_SympyHarmonicExpansions.ipynb
         ├── sixth_order_filtered_terms.json

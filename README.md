@@ -26,7 +26,7 @@ The conda environment used for this work can be recreated with the following com
 * `jupyter`:
   * `Figures`: contains the jupyter notebooks used to generate the Figures in the paper and supplementary materials, along with their .png images.
   * `Processed Data`: contains the jupyter notebook `preprocessing_data.ipynb` used to preprocess the raw data from the `Raw Data - FeCN platinum 8` folder into the file `preprocessed_data_final.csv`, according to the methods described in the paper. This .csv file was used to create all the resulting Figures.
-  * `Theory Derivations`: contains the jupyter notebook `Supplementary_SympyHarmonicExpansions.ipynb` used to mathematically derive the ordered-models for the first and second harmonic current and admittances.
+  * `Theory Derivations`: contains the jupyter notebook `Tutorial_Supplementary_SympyHarmonicExpansions.ipynb` used to mathematically derive the ordered-models for the first and second harmonic current and admittances.
 
 ## Repository Structutre
 ```bash

@@ -7,8 +7,8 @@ This repository contains the supplementary materials for the paper: **Second Har
 ### ★ How to Cite:
 **GitHub (Zenodo DOI)**
 > ```text
-> lauren8040. (2026). *lauren8040/NLEIS-Ferri-Ferrocyanide-Modelling:
-> NLEIS-Ferri-Ferrocyanide-Modelling_2_1_2025* (v1.0.0). Zenodo.
+> lauren8040. (2026). lauren8040/NLEIS-Ferri-Ferrocyanide-Modelling:
+> NLEIS-Ferri-Ferrocyanide-Modelling_2_1_2026 (v1.0.0). Zenodo.
 > https://doi.org/10.5281/zenodo.18452318
 > ```
 

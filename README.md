@@ -50,7 +50,6 @@ The conda environment used for this work can be recreated with the following com
 │   ├── EISPOT_fcn_50mV_2.DTA
 │   ├── EISPOT_fcn_5mV_1.DTA
 │   ├── EISPOT_fcn_5mV_2.DTA
-│   ├── New Text Document.txt
 │   └── OCP3.DTA
 ├── environment.yml
 └── jupyter
@@ -58,30 +57,30 @@ The conda environment used for this work can be recreated with the following com
     ├── Figures
     │   ├── .DS_Store
     │   ├── Cyclic Voltamagram
-    │   │   ├── Figure1_Pt_Cycle3_CV.png
+    │   │   ├── Figure1_Pt_Cycle3_CV.pdf
     │   │   └── cyclic_volt_plot.ipynb
     │   ├── Frequency Normalized Current Magnitudes
-    │   │   ├── Figure4_Freq_Normalized_Current_Magnitudes.png
+    │   │   ├── Figure4_Freq_Normalized_Current_Magnitudes.pdf
     │   │   └── Frequency_Normalized_Current_Plot.ipynb
     │   ├── Harmonic Growth
-    │   │   ├── Figure3_Harmonic_Growth_0.3004808_Hz_Run1.png
+    │   │   ├── Figure3_Harmonic_Growth_0.3004808_Hz_Run1.pdf
     │   │   ├── Harmonic_Growth_Plot.ipynb
-    │   │   └── S6_Harmonic_Growth_0.3004808_Hz_Run2.png
+    │   │   └── S6_Harmonic_Growth_0.3004808_Hz_Run2.pdf
     │   ├── Nonlinearly Corrected Admittances
     │   │   ├── Corrected_Admittance_Plots.ipynb
-    │   │   ├── Figure5_A1_Plot_Run1.png
-    │   │   ├── Figure6_A2_Plot_Run1.png
-    │   │   ├── S7_A1_Plot_Run2.png
-    │   │   └── S8_A2_Plot_Run2.png
+    │   │   ├── Figure5_A1_Plot_Run1.pdf
+    │   │   ├── Figure6_A2_Plot_Run1.pdf
+    │   │   ├── S7_A1_Plot_Run2.pdf
+    │   │   └── S8_A2_Plot_Run2.pdf
     │   ├── Rotation and Processed Currents
     │   │   ├── Rotation_and_Processed_Plots.ipynb
-    │   │   ├── S1_First_Harmonic_Rot_Proc_Current_Comparison.png
-    │   │   ├── S3_First_Harmonic_2nd_Order_Admittance_all_Freq.png
-    │   │   ├── S4_First_Harmonic_2nd_Order_Admittance_Near_Origin.png
-    │   │   └── S5_Second_Harmonic_2nd_Order_Admittance_Near_Origin.png
+    │   │   ├── S1_First_Harmonic_Rot_Proc_Current_Comparison.pdf
+    │   │   ├── S3_First_Harmonic_2nd_Order_Admittance_all_Freq.pdf
+    │   │   ├── S4_First_Harmonic_2nd_Order_Admittance_Near_Origin.pdf
+    │   │   └── S5_Second_Harmonic_2nd_Order_Admittance_Near_Origin.pdf
     │   └── Signal Analysis
-    │       ├── Figure2_Processed_Current_Signal_Analysis.png
-    │       ├── S2_Processed_Voltage_Signal_Analysis.png
+    │       ├── Figure2_Processed_Current_Signal_Analysis.pdf
+    │       ├── S2_Processed_Voltage_Signal_Analysis.pdf
     │       └── Signal_Analysis_Plot.ipynb
     ├── Processed Data
     │   ├── preprocessed_data_final.csv

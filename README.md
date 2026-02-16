@@ -30,7 +30,7 @@ The conda environment used for this work can be recreated with the following com
 ## Folders
 * `Raw Data - FeCN platinum 8`: contains the raw .DTA file outputs from a Gamry Interface 1010E potentiostat for RMS potential modulations of 1 mV, 5 mV, 10 mV, 20 mV, 50 mV, and 100 mV. Files ending in 1 are associated with the Run (or replicate) 1 and those ending in 2 are Run 2.
 * `jupyter`:
-  * `Figures`: contains the jupyter notebooks used to generate the Figures in the paper and supplementary materials, along with their .png images.
+  * `Figures`: contains the jupyter notebooks used to generate the Figures in the paper and supplementary materials, along with their .pdf images.
   * `Processed Data`: contains the jupyter notebook `preprocessing_data.ipynb` used to preprocess the raw data from the `Raw Data - FeCN platinum 8` folder into the file `preprocessed_data_final.csv`, according to the methods described in the paper. This .csv file was used to create all the resulting Figures.
   * `Theory Derivations`: contains the jupyter notebook `Tutorial_Supplementary_SympyHarmonicExpansions.ipynb` used to mathematically derive the ordered-models for the first and second harmonic current and admittances.
 

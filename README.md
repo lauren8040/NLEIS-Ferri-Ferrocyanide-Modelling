@@ -1,4 +1,4 @@
-# NLEIS-Ferri-Ferrocyanide-Modelling <a href="https://doi.org/10.5281/zenodo.18452317"><img src="https://zenodo.org/badge/1138793657.svg" alt="DOI"></a>
+# NLEIS-Ferri-Ferrocyanide-Modelling [<a href="https://doi.org/10.5281/zenodo.18452317"><img src="https://zenodo.org/badge/1138793657.svg" alt="DOI"></a>](https://doi.org/10.5281/zenodo.20132086)
 ### **Repository Author:** Lauren A. Frank
 This repository contains the supplementary materials for the paper: **Second Harmonic Nonlinear Warburg Admittance Analysis Eliminates Information Loss from Linearization in Traditional EIS: Theory and Experimental Validation** by Frank et al. 2026. This includes all of the code used to create the paper's Figures and its associated model derivations.
 * 📓 [Tutorial - Supplementary Theory (SymPy harmonic series expansions)](jupyter/Theory%20Derivations/Tutorial_Supplementary_SympyHarmonicExpansions.ipynb) - mathematical derivations of current $\tilde{\mathrm{I}}_{\mathrm{j}}$ and $h_j$(∆E) up to N-th order; evaluation of modulation-potential-dependent surface concentration coefficients ($C_j^{s,II}$ and $C_j^{s,III}$).

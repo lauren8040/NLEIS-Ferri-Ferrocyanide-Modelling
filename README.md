@@ -1,4 +1,4 @@
-# NLEIS-Ferri-Ferrocyanide-Modelling <a href="https://doi.org/10.5281/zenodo.18452317"><img src="https://zenodo.org/badge/1138793657.svg" alt="DOI"></a>
+# NLEIS-Ferri-Ferrocyanide-Modelling [<a href="https://doi.org/10.5281/zenodo.18452317"><img src="https://zenodo.org/badge/1138793657.svg" alt="DOI"></a>](https://doi.org/10.5281/zenodo.20132086)
 ### **Repository Author:** Lauren A. Frank
 This repository contains the supplementary materials for the paper: **Second Harmonic Nonlinear Warburg Admittance Analysis Eliminates Information Loss from Linearization in Traditional EIS: Theory and Experimental Validation** by Frank et al. 2026. This includes all of the code used to create the paper's Figures and its associated model derivations.
 * 📓 [Tutorial - Supplementary Theory (SymPy harmonic series expansions)](jupyter/Theory%20Derivations/Tutorial_Supplementary_SympyHarmonicExpansions.ipynb) - mathematical derivations of current $\tilde{\mathrm{I}}_{\mathrm{j}}$ and $h_j$(∆E) up to N-th order; evaluation of modulation-potential-dependent surface concentration coefficients ($C_j^{s,II}$ and $C_j^{s,III}$).
@@ -57,6 +57,7 @@ The conda environment used for this work can be recreated with the following com
     ├── Figures
     │   ├── .DS_Store
     │   ├── Cyclic Voltamagram
+    │   │   ├── Cover_art_CV.pdf
     │   │   ├── Figure1_Pt_Cycle3_CV.pdf
     │   │   └── cyclic_volt_plot.ipynb
     │   ├── Frequency Normalized Current Magnitudes
@@ -65,13 +66,14 @@ The conda environment used for this work can be recreated with the following com
     │   ├── Harmonic Growth
     │   │   ├── Figure3_Harmonic_Growth_0.3004808_Hz_Run1.pdf
     │   │   ├── Harmonic_Growth_Plot.ipynb
-    │   │   └── S6_Harmonic_Growth_0.3004808_Hz_Run2.pdf
+    │   │   ├── S6_Harmonic_Growth_All_Frequencies_Run1.pdf
+    │   │   └── S7_Harmonic_Growth_All_Frequencies_Run2.pdf
     │   ├── Nonlinearly Corrected Admittances
     │   │   ├── Corrected_Admittance_Plots.ipynb
     │   │   ├── Figure5_A1_Plot_Run1.pdf
     │   │   ├── Figure6_A2_Plot_Run1.pdf
-    │   │   ├── S7_A1_Plot_Run2.pdf
-    │   │   └── S8_A2_Plot_Run2.pdf
+    │   │   ├── S8_A1_Plot_Run2.pdf
+    │   │   └── S9_A2_Plot_Run2.pdf
     │   ├── Rotation and Processed Currents
     │   │   ├── Rotation_and_Processed_Plots.ipynb
     │   │   ├── S1_First_Harmonic_Rot_Proc_Current_Comparison.pdf
@@ -79,6 +81,7 @@ The conda environment used for this work can be recreated with the following com
     │   │   ├── S4_First_Harmonic_2nd_Order_Admittance_Near_Origin.pdf
     │   │   └── S5_Second_Harmonic_2nd_Order_Admittance_Near_Origin.pdf
     │   └── Signal Analysis
+    │       ├── Cover_art_signal_analysis.pdf
     │       ├── Figure2_Processed_Current_Signal_Analysis.pdf
     │       ├── S2_Processed_Voltage_Signal_Analysis.pdf
     │       └── Signal_Analysis_Plot.ipynb

@@ -12,7 +12,7 @@ https://doi.org/10.5281/zenodo.18452317
 ```
 
 ## Abstract
-**Lauren A. Frank¹, Jerome T. Babauta², Daniel T. Schwartz¹**  
+**Authors – Lauren A. Frank¹, Jerome T. Babauta², Daniel T. Schwartz¹**  
 ¹*Department of Chemical Engineering and Clean Energy Institute, University of Washington*  
 ²*Gamry Instruments, Inc.*
 

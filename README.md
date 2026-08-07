@@ -9,7 +9,7 @@ This repository contains the supplementary materials for the paper: **Second Har
 > Frank, L. A., Babauta, J. T., & Schwartz, D. T. *Second Harmonic Nonlinear Warburg Admittance Analysis Eliminates Information Loss from Linearization in Traditional EIS: Theory and Experimental Validation.* **Analytical Chemistry** (2026). https://doi.org/10.1021/acs.analchem.6c01245
 
 **GitHub (latest version; concept DOI)**
->Frank, L. A. *NLEIS-Ferri-Ferrocyanide-Modelling.* Zenodo (2026). https://doi.org/10.5281/zenodo.18452317
+> Frank, L. A. *NLEIS-Ferri-Ferrocyanide-Modelling.* Zenodo (2026). https://doi.org/10.5281/zenodo.18452317
 
 ## Abstract
 **Authors – Lauren A. Frank¹, Jerome T. Babauta², Daniel T. Schwartz¹**  

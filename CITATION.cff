@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Second Harmonic Nonlinear Warburg Admittance Analysis"
+
+authors:
+- family-names: "Frank"
+  given-names: "Lauren A."
+- family-names: "Babauta"
+  given-names: "Jerome T."
+- family-names: "Schwartz"
+  given-names: "Daniel T."
+
+version: "1.0.0"
+
+date-released: "2026-08-05"
+
+repository-code: "https://github.com/lauren8040/NLEIS-Ferri-Ferrocyanide-Modelling"
+
+license: "MIT"
+
+identifiers:
+- type: doi
+  value: "10.1021/acs.analchem.6c01245"
+
+preferred-citation:
+  type: article
+  title: "Second Harmonic Nonlinear Warburg Admittance Analysis Eliminates Information Loss from Linearization in Traditional EIS: Theory and Experimental Validation"
+  authors:
+  - family-names: "Frank"
+    given-names: "Lauren A."
+  - family-names: "Babauta"
+    given-names: "Jerome T."
+  - family-names: "Schwartz"
+    given-names: "Daniel T."
+  journal: "Analytical Chemistry"
+  year: 2026
+  doi: "10.1021/acs.analchem.6c01245"
